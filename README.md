@@ -12,9 +12,8 @@
 
 ---
 
-## 📑 **Sommaire**
+📑 **Sommaire**
 
-```
 ├── 🔒 À propos de moi
 ├── 🛠️ Compétences Techniques
 ├── 🤝 Compétences Comportementales (Soft Skills)
@@ -29,7 +28,7 @@
     ├── Tutorat Informatique
     ├── Développeur Web - Stage
     └── Tuteur Scolaire
-```
+
 
 ---
 

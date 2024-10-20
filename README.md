@@ -4,7 +4,11 @@
 
 # 👨‍💻 **Ahmat Mahamat | Passionné de Cybersécurité & Pentester**
 
-🔍 Passionné par la cybersécurité offensive et l'évaluation des vulnérabilités, je suis actuellement étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie. Je suis à la recherche d'opportunités de stage pour février 2025. Bienvenue sur mon profil GitHub où je partage mes projets, mes réalisations en CTF et mes contributions en développement de solutions de sécurité.
+
+Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie | **Passionné de Pentesting et Sécurité Offensive** | Recherche Stage 2025
+
+Je suis passionné par la **sécurité offensive**, l’identification et l’exploitation des vulnérabilités, ainsi que par les tests d’intrusion. Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de février 2025, afin de renforcer mes compétences en **sécurité des systèmes et des réseaux** au sein d’une équipe d’experts.
+
 
 📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)  
 🔗 **LinkedIn :** [Ahmat Mahamat](https://www.linkedin.com/in/ahmat-mahamat)  

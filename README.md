@@ -39,9 +39,9 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de f�
 
 ## 🎓 **Formation**
 
-- **Master 2 Cybersécurité** | *Université de Caen Normandie*  
+- **Master 2 Informatique à la carte** | *Université de Caen Normandie*  
   **2023 - 2025**  
-  - Spécialisation en cybersécurité (Pentesting, RedTeam)
+  - option en cybersécurité (Pentesting, RedTeam)
 
 - **Licence en Informatique** | *Université de Caen Normandie*  
   **2020 - 2023**  

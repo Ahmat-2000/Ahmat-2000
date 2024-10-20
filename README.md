@@ -2,19 +2,21 @@
 
 ---
 
-# 👨‍💻 Ahmat Mahamat | **Cybersecurity Enthusiast & Pentester**
-
-📫 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)  
-🔗 **LinkedIn :** [Ahmat Mahamat](https://www.linkedin.com/in/ahmat-mahamat)  
-🌐 **Portfolio :** [ahmat-mahamat.vercel.app](https://ahmat-mahamat.vercel.app/)
+# 👨‍💻 **Ahmat Mahamat | Passionné de Cybersécurité & Pentester**
 
 🔍 Passionné par la cybersécurité offensive et l'évaluation des vulnérabilités, je suis actuellement étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie. Je suis à la recherche d'opportunités de stage pour février 2025. Bienvenue sur mon profil GitHub où je partage mes projets, mes réalisations en CTF et mes contributions en développement de solutions de sécurité.
+
+📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)  
+🔗 **LinkedIn :** [Ahmat Mahamat](https://www.linkedin.com/in/ahmat-mahamat)  
+🐦 **Twitter :** [Ahmat_2000](https://x.com/Ahmat_2000)  
+👨‍💻 **LeetCode :** [Ahmat Mahamat](https://leetcode.com/u/Ahmatmhtlouky/)  
+🌐 **Portfolio :** [ahmat-mahamat.vercel.app](https://ahmat-mahamat.vercel.app/)
 
 ---
 
 ## 📑 **Sommaire**
 
-- [À propos de moi](#-à-propos-de-moi)
+- [Formation](#-formation)
 - [Compétences Techniques](#-compétences-techniques)
 - [Compétences Comportementales (Soft Skills)](#-compétences-comportementales-soft-skills)
 - [Projets & Réalisations](#-projets--réalisations)
@@ -31,11 +33,15 @@
 
 ---
 
-## 🔒 **À propos de moi**
+## 🎓 **Formation**
 
-- 🎓 **Master 2 Cybersécurité** | Université de Caen Normandie  
-- 🎯 **Spécialisation :** Pentesting, Sécurité des systèmes et réseaux  
-- 🌍 **Langues :** Français, Anglais, Arabe  
+- **Master 2 Cybersécurité** | *Université de Caen Normandie*  
+  **2023 - 2025**  
+  - Spécialisation en cybersécurité (Pentesting, RedTeam)
+
+- **Licence en Informatique** | *Université de Caen Normandie*  
+  **2020 - 2023**  
+  - Cours suivis : Développement Web et Mobile, Réseaux et Sécurité, Bases de Données, Algorithmique et Programmation
 
 ---
 
@@ -67,8 +73,8 @@
 
 ## 🏆 **Projets & Réalisations**
 
-1. ### 🎯 **Compétitions CTF**  
-   **Plateformes :** [TryHackMe](https://tryhackme.com/p/Ahmat), HackTheBox  
+1. ### 🎯 [**Compétitions CTF**](https://tryhackme.com/p/Ahmat)  
+   **Plateformes :** TryHackMe, HackTheBox  
    - **Objectif :** Développer des compétences en pentesting et en sécurité offensive à travers des défis techniques et scénarios réalistes.  
    - **Réalisation :** Participation active à plus de 70 défis sur les plateformes TryHackMe et HackTheBox, incluant des laboratoires pratiques, des scénarios de piratage et des simulations d’attaques.  
    - **Compétences Techniques Développées :**  
@@ -77,24 +83,24 @@
       - **🌐 Attaques Réseau & Post-Exploitation**  
       - **🛡️ Détection des Vulnérabilités**  
 
-2. ### 💥 **Simulation d’Attaques DDoS**  
-   **Technologies utilisées :** [Docker, hping3, Slowloris, Nginx, Apache](https://github.com/Ahmat-2000/DDOS-attack-with-docker)  
+2. ### 💥 [**Simulation d’Attaques DDoS**](https://github.com/Ahmat-2000/DDOS-attack-with-docker)  
+   **Technologies utilisées :** Docker, hping3, Slowloris, Nginx, Apache  
    - Mise en place d’une infrastructure de tests pour simuler des attaques DDoS et déployer des solutions de mitigation, réduisant l’exposition aux attaques de 50%.
 
-3. ### 🔑 **Création de Tables Arc-en-Ciel pour le Cassage de Mots de Passe**  
-   **Technologies utilisées :** [Java, Python, Bash](https://github.com/Ahmat-2000/Rainbow-table)  
+3. ### 🔑 [**Création de Tables Arc-en-Ciel pour le Cassage de Mots de Passe**](https://github.com/Ahmat-2000/Rainbow-table)  
+   **Technologies utilisées :** Java, Python, Bash  
    - Optimisation de la vitesse de cassage des mots de passe avec des tables arc-en-ciel, et mise en œuvre de contre-mesures telles que les hachages salés.  
 
-4. ### 🖥️ **Portfolio Personnel**  
-   **Technologies utilisées :** [Next.js, Tailwind CSS, Google reCAPTCHA, Nodemailer](https://ahmat-mahamat.vercel.app/)  
+4. ### 🖥️ [**Portfolio Personnel**](https://ahmat-mahamat.vercel.app/)  
+   **Technologies utilisées :** Next.js, Tailwind CSS, Google reCAPTCHA, Nodemailer  
    - Création d'un portfolio interactif pour présenter mon parcours, mes compétences et mes projets. Intégration de Google reCAPTCHA pour la sécurité des formulaires et utilisation de Nodemailer pour la gestion des contacts par email.
 
-5. ### 📱 **Application Mobile Clone de Doctolib**  
-   **Technologies utilisées :** [React Native, Expo](https://github.com/Ahmat-2000/doctolib-clone)  
+5. ### 📱 [**Application Mobile Clone de Doctolib**](https://github.com/Ahmat-2000/doctolib-clone)  
+   **Technologies utilisées :** React Native, Expo  
    - Développement d'une application mobile visant à devenir le "Doctolib du Tchad" avec une interface intuitive pour les utilisateurs. Ce projet personnel est en cours de développement, avec une progression à mon propre rythme.
 
-6. ### 💡 **DApp Blockchain Ethereum avec Next.js & Solidity**  
-   **Technologies utilisées :** [Next.js, Solidity, Ethereum](https://blockchain-store-2024.vercel.app/)  
+6. ### 💡 [**DApp Blockchain Ethereum avec Next.js & Solidity**](https://blockchain-store-2024.vercel.app/)  
+   **Technologies utilisées :** Next.js, Solidity, Ethereum  
    - Création d'une application décentralisée (DApp) sur la blockchain Ethereum. Développement de smart contracts en Solidity et intégration avec une interface Next.js pour fournir des services sécurisés et transparents basés sur la blockchain. Le projet est actuellement en maintenance avec des améliorations en cours.
 
 ---

@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-Voici un exemple de README stylisé pour votre profil GitHub :
-
----
+--
 
 # 👨‍💻 Ahmat Mahamat | **Cybersecurity Enthusiast & Pentester**  
 
@@ -52,5 +49,3 @@ Voici un exemple de README stylisé pour votre profil GitHub :
 Je suis à la recherche d’un stage de 4 à 6 mois à partir de février 2025, où je pourrais mettre mes compétences au service d'une équipe spécialisée en cybersécurité. Mon objectif est de renforcer mes compétences en sécurité offensive tout en contribuant activement à la protection des systèmes d’information critiques.
 
 ---
-
-Ce README présente un aperçu clair et professionnel de vos compétences et de votre parcours, tout en étant stylisé et engageant pour les visiteurs de votre profil GitHub. Vous pouvez l'adapter selon vos préférences ou ajouter des sections supplémentaires comme des certifications ou des contributions open source.

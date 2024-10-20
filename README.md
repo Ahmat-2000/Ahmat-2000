@@ -39,13 +39,13 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de f�
 
 ## 🎓 **Formation**
 
-- **Master 2 Informatique à la carte** | *Université de Caen Normandie*  
+- **Master 2 Informatique à la carte option cybersécurité** | *Université de Caen Normandie*  
   **2023 - 2025**  
-  - option en cybersécurité (Pentesting, RedTeam)
+  - Cours suivis : sécurité des réseaux, des applications, cryptographie quantique, forensique, biométrie, blockchain, programmation linéaire, docker et kubernetes.
 
 - **Licence en Informatique** | *Université de Caen Normandie*  
   **2020 - 2023**  
-  - Cours suivis : Développement Web et Mobile, Réseaux et Sécurité, Bases de Données, Algorithmique et Programmation
+  - Cours suivis : Développement Web et Mobile, Réseaux et Sécurité, Bases de Données, Algorithmique et Programmation.
 
 ---
 

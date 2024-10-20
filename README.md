@@ -100,7 +100,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de f�
    - Création d'un portfolio interactif pour présenter mon parcours, mes compétences et mes projets. Intégration de Google reCAPTCHA pour la sécurité des formulaires et utilisation de Nodemailer pour la gestion des contacts par email.
 
 5. ### 📱 [**Application Mobile Clone de Doctolib**](https://github.com/Ahmat-2000/doctolib-clone)  
-   **Technologies utilisées :** React Native, Expo  
+   **Technologies utilisées :** React Native, Expo, TypeScript
    - Développement d'une application mobile visant à devenir le "Doctolib du Tchad" avec une interface intuitive pour les utilisateurs. Ce projet personnel est en cours de développement, avec une progression à mon propre rythme.
 
 6. ### 💡 [**DApp Blockchain Ethereum avec Next.js & Solidity**](https://blockchain-store-2024.vercel.app/)  

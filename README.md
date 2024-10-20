@@ -12,23 +12,22 @@
 
 ---
 
-📑 **Sommaire**
+## 📑 **Sommaire**
 
-├── 🔒 À propos de moi
-├── 🛠️ Compétences Techniques
-├── 🤝 Compétences Comportementales (Soft Skills)
-├── 🏆 Projets & Réalisations
-│   ├── 🎯 Compétitions CTF
-│   ├── 💥 Simulation d’Attaques DDoS
-│   ├── 🔑 Création de Tables Arc-en-Ciel pour le Cassage de Mots de Passe
-│   ├── 🖥️ Portfolio Personnel
-│   ├── 📱 Application Mobile Clone de Doctolib
-│   └── 💡 DApp Blockchain Ethereum avec Next.js & Solidity
-└── 📝 Expériences Professionnelles
-    ├── Tutorat Informatique
-    ├── Développeur Web - Stage
-    └── Tuteur Scolaire
-
+- [À propos de moi](#-à-propos-de-moi)
+- [Compétences Techniques](#-compétences-techniques)
+- [Compétences Comportementales (Soft Skills)](#-compétences-comportementales-soft-skills)
+- [Projets & Réalisations](#-projets--réalisations)
+  - [Compétitions CTF](#-compétitions-ctf)
+  - [Simulation d'Attaques DDoS](#-simulation-dattaques-ddos)
+  - [Tables Arc-en-Ciel pour le Cassage de Mots de Passe](#-création-de-tables-arc-en-ciel-pour-le-cassage-de-mots-de-passe)
+  - [Portfolio Personnel](#-portfolio-personnel)
+  - [Application Mobile Clone de Doctolib](#-application-mobile-clone-de-doctolib)
+  - [DApp Blockchain Ethereum](#-dapp-blockchain-ethereum)
+- [Expériences Professionnelles](#-expériences-professionnelles)
+  - [Tutorat Informatique](#-tutorat-informatique)
+  - [Développeur Web - Stage](#-développeur-web---stage)
+  - [Tuteur Scolaire](#-tuteur-scolaire)
 
 ---
 

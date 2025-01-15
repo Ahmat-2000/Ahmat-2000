@@ -5,9 +5,9 @@
 # 👨‍💻 **Ahmat Mahamat | Passionné de Cybersécurité & Pentester**
 
 
-Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie Je suis passionné par la **sécurité offensive et le Pentesting**. 
+Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie Je suis passionné par le **Pentesting** et le **Développement**. 
 
-Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de février 2025, afin de renforcer mes compétences en **sécurité des systèmes et des réseaux** au sein d’une équipe d’experts.
+Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.
 
 
 📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)  
@@ -52,15 +52,13 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de f�
 ## 🛠️ **Compétences Techniques**
 
 - **Pentesting & Sécurité Offensive** : Maîtrise des tests d’intrusion sur les systèmes Linux et les applications Web  
-- **Outils de Sécurité** : Nmap, Metasploit, Burp Suite, Wireshark, Gobuster, Hydra  
+- **Outils de Sécurité** : Nmap, Metasploit, Burp Suite, Gobuster, Hydra  
 - **Scripting & Développement** : Python, Bash, C, Java, PHP, JavaScript, SQL  
 - **Développement Web & UI** : React, React Native, Next.js, Django, GraphQL, Tailwind CSS  
 - **Cloud & DevOps** : Docker, Kubernetes, AWS, GitHub CI/CD  
 - **Administration Systèmes** : Kali Linux, Ubuntu  
 - **Réseaux & Sécurité Réseau** : Modèle OSI, TCP/IP, analyse de trafic avec Wireshark  
-- **Infrastructure Réseau** : Configuration de routeurs, LAN, WAN, DMZ, Firewall, et VPN  
-- **Scan de Vulnérabilités & Gestion des Risques** : Méthodologies de scan avec EBIOS RM  
-- **Cryptographie & Cryptanalyse** : Techniques avancées en cryptographie et cryptanalyse  
+- **Infrastructure Réseau** : Configuration de routeurs, LAN, WAN, DMZ, Firewall
 
 ---
 
@@ -78,7 +76,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de f�
 ## 🏆 **Projets & Réalisations**
 
 1. ### 🎯 [**Compétitions CTF**](https://tryhackme.com/p/Ahmat)  
-   **Plateformes :** TryHackMe, HackTheBox  
+   **Plateformes :** TryHackMe, Root-Me  
    - **Objectif :** Développer des compétences en pentesting et en sécurité offensive à travers des défis techniques et scénarios réalistes.  
    - **Réalisation :** Participation active à plus de 70 défis sur les plateformes TryHackMe et HackTheBox, incluant des laboratoires pratiques, des scénarios de piratage et des simulations d’attaques.  
    - **Compétences Techniques Développées :**  

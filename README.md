@@ -2,19 +2,21 @@
 
 ---
 
-# 👨‍💻 **Ahmat Mahamat | Passionné de Cybersécurité & Pentester**
+# 👨‍💻 **ahmat MAHAMAT**
 
 
-Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie Je suis passionné par le **Pentesting** et le **Développement**. 
+Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie Je suis passionné par la **Cybersécurité** et le **Développement d'application**. 
 
 Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.
 
 
-📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)  
-🔗 **LinkedIn :** [Ahmat Mahamat](https://www.linkedin.com/in/ahmat-mahamat)  
-🐦 **Twitter :** [Ahmat_2000](https://x.com/Ahmat_2000)  
+📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)
+🌐 **Portfolio :** [ahmat-mahamat.vercel.app](https://ahmat-mahamat.vercel.app/) 
+👨‍💻 **Root-Me :** [root-me.org/Ahmat-876828](https://www.root-me.org/Ahmat-876828)
+👨‍💻 **TryHackMe :** [tryhackme.com/r/p/Ahmat](https://tryhackme.com/r/p/Ahmat)
 👨‍💻 **LeetCode :** [Ahmat Mahamat](https://leetcode.com/u/Ahmatmhtlouky/)  
-🌐 **Portfolio :** [ahmat-mahamat.vercel.app](https://ahmat-mahamat.vercel.app/)
+🔗 **LinkedIn :** [Ahmat Mahamat](https://www.linkedin.com/in/ahmat-mahamat)  
+🐦 **Twitter :** [Ahmat_2000](https://x.com/Ahmat_2000) 
 
 ---
 
@@ -54,7 +56,8 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
 - **Pentesting & Sécurité Offensive** : Maîtrise des tests d’intrusion sur les systèmes Linux et les applications Web  
 - **Outils de Sécurité** : Nmap, Metasploit, Burp Suite, Gobuster, Hydra  
 - **Scripting & Développement** : Python, Bash, C, Java, PHP, JavaScript, SQL  
-- **Développement Web & UI** : React, React Native, Next.js, Django, GraphQL, Tailwind CSS  
+- **Développement Web & UI** : React, React Native, Next.js, Django, GraphQL, Tailwind CSS
+- **Base de données** : MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps** : Docker, Kubernetes, AWS, GitHub CI/CD  
 - **Administration Systèmes** : Kali Linux, Ubuntu  
 - **Réseaux & Sécurité Réseau** : Modèle OSI, TCP/IP, analyse de trafic avec Wireshark  
@@ -78,7 +81,6 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
 1. ### 🎯 [**Compétitions CTF**](https://tryhackme.com/p/Ahmat)  
    **Plateformes :** TryHackMe, Root-Me  
    - **Objectif :** Développer des compétences en pentesting et en sécurité offensive à travers des défis techniques et scénarios réalistes.  
-   - **Réalisation :** Participation active à plus de 70 défis sur les plateformes TryHackMe et HackTheBox, incluant des laboratoires pratiques, des scénarios de piratage et des simulations d’attaques.  
    - **Compétences Techniques Développées :**  
       - **🔍 Exploitation de Vulnérabilités Web**  
       - **🔒 Élévation de Privilèges sous Linux**  

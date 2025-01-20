@@ -2,12 +2,10 @@
 
 ---
 
-# 👨‍💻 **ahmat MAHAMAT**
+# 👨‍💻 **ahmat MAHAMAT | Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.**
 
 
 Étudiant en Master 2 Cybersécurité à l'Université de Caen Normandie Je suis passionné par la **Cybersécurité** et le **Développement d'application**. 
-
-Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.
 
 
 📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)

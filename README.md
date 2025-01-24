@@ -4,9 +4,6 @@
 
 # 👨‍💻 **ahmat MAHAMAT**
 
-
-Étudiant en Master 2 Informatique à l'Université de Caen Normandie Je suis passionné par la **Cybersécurité** et le **Développement d'application**. 
-
 Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.
 
 
@@ -30,9 +27,8 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
 
 - [Formation](#-formation)
 - [Compétences Techniques](#-compétences-techniques)
-- [Compétences Comportementales (Soft Skills)](#-compétences-comportementales-soft-skills)
 - [Projets & Réalisations](#-projets--réalisations)
-  - [Compétitions CTF](#-compétitions-ctf)
+  - [Challenges Cybersécurités](#-challenges-cybersécurités)
   - [Simulation d'Attaques DDoS](#-simulation-dattaques-ddos)
   - [Tables Arc-en-Ciel pour le Cassage de Mots de Passe](#-création-de-tables-arc-en-ciel-pour-le-cassage-de-mots-de-passe)
   - [Portfolio Personnel](#-portfolio-personnel)
@@ -49,7 +45,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
 
 - **Master 2 Informatique à la carte option cybersécurité** | *Université de Caen Normandie*  
   **2023 - 2025**  
-  - Cours suivis : sécurité des réseaux, des applications, cryptographie quantique, forensique, biométrie, blockchain, programmation linéaire, docker et kubernetes.
+  - Cours suivis : sécurité des réseaux, des systèmes et des applications, cryptographie quantique, forensique, blockchain, programmation linéaire, docker et kubernetes.
 
 - **Licence en Informatique** | *Université de Caen Normandie*  
   **2020 - 2023**  
@@ -57,34 +53,9 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
 
 ---
 
-## 🛠️ **Compétences Techniques**
-
-- **Pentesting & Sécurité Offensive** : Maîtrise des tests d’intrusion sur les systèmes Linux et les applications Web  
-- **Outils de Sécurité** : Nmap, Metasploit, Burp Suite, Gobuster, Hydra  
-- **Scripting & Développement** : Python, Bash, C, Java, PHP, JavaScript, SQL  
-- **Développement Web & UI** : React, React Native, Next.js, Django, GraphQL, Tailwind CSS
-- **Base de données** : MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps** : Docker, Kubernetes, AWS, GitHub CI/CD  
-- **Administration Systèmes** : Kali Linux, Ubuntu  
-- **Réseaux & Sécurité Réseau** : Modèle OSI, TCP/IP, analyse de trafic avec Wireshark  
-- **Infrastructure Réseau** : Configuration de routeurs, LAN, WAN, DMZ, Firewall
-
----
-
-## 🤝 **Compétences Comportementales (Soft Skills)**
-
-- Esprit d’analyse et de résolution de problèmes
-- Communication technique
-- Travail en équipe et collaboration
-- Rigueur et organisation
-- Dynamisme et proactivité
-- Adaptabilité
-
----
-
 ## 🏆 **Projets & Réalisations**
 
-1. ### 🎯 [**Compétitions CTF**](https://tryhackme.com/p/Ahmat)  
+1. ### 🎯 **Challenges Cybersécurités**
    **Plateformes :** TryHackMe, Root-Me  
    - **Objectif :** Développer des compétences en pentesting et en sécurité offensive à travers des défis techniques et scénarios réalistes.  
    - **Compétences Techniques Développées :**  

@@ -4,8 +4,6 @@
 
 # 👨‍💻 **ahmat MAHAMAT**
 
-Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de mars 2025.
-
 
 📧 **Email :** [ahmatmhtlouky@gmail.com](mailto:ahmatmhtlouky@gmail.com)
 
@@ -76,7 +74,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
    **Technologies utilisées :** Next.js, Tailwind CSS, Google reCAPTCHA, Nodemailer  
    - Création d'un portfolio interactif pour présenter mon parcours, mes compétences et mes projets. Intégration de Google reCAPTCHA pour la sécurité des formulaires et utilisation de Nodemailer pour la gestion des contacts par email.
 
-5. ### 📱 [**Application Mobile Clone de Doctolib**](https://github.com/Ahmat-2000/doctolib-clone)  
+5. ### 📱 <a href="https://github.com/Ahmat-2000/doctolib-clone" target="_blank">Application Mobile Clone de Doctolib</a> 
    **Technologies utilisées :** React Native, Expo, TypeScript
    - Développement d'une application mobile visant à devenir le "Doctolib du Tchad" avec une interface intuitive pour les utilisateurs. Ce projet personnel est en cours de développement, avec une progression à mon propre rythme.
 

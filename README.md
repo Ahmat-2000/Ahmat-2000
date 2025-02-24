@@ -80,7 +80,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois à partir de ma
    **Technologies utilisées :** React Native, Expo, TypeScript
    - Développement d'une application mobile visant à devenir le "Doctolib du Tchad" avec une interface intuitive pour les utilisateurs. Ce projet personnel est en cours de développement, avec une progression à mon propre rythme.
 
-6. ### 💡 [**DApp Blockchain Ethereum avec Next.js & Solidity**](https://blockchain-store-2024.vercel.app/)  
+6. ### 💡 [**DApp Blockchain Ethereum avec Next.js & Solidity**](https://collect-crypto.vercel.app/)  
    **Technologies utilisées :** Next.js, Solidity, Ethereum  
    - Création d'une application décentralisée (DApp) sur la blockchain Ethereum. Développement de smart contracts en Solidity et intégration avec une interface Next.js pour fournir des services sécurisés et transparents basés sur la blockchain. Le projet est actuellement en maintenance avec des améliorations en cours.
 
